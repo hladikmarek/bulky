@@ -1,0 +1,186 @@
+# Czech translation for linuxmint
+# Copyright (c) 2021
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <mhladik@seznam.cz>, 2021.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: Marek Hladík <mhladik@seznam.cz>\n"
+"POT-Creation-Date: 2021-05-24 15:02+0100\n"
+"PO-Revision-Date: 2021-07-09 09:16+0200\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2021-06-25 10:43+0000\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: Marek Hladík <mhladik@seznam.cz>\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"Language: cs\n"
+
+#: usr/lib/bulky/bulky.py:93 usr/share/bulky/bulky.ui.h:1
+msgid "Rename..."
+msgstr "Přejmenování…"
+
+#: usr/lib/bulky/bulky.py:118 usr/lib/bulky/bulky.py:230
+msgid "About"
+msgstr "O aplikaci"
+
+#: usr/lib/bulky/bulky.py:123
+msgid "Quit"
+msgstr "Ukončit"
+
+#: usr/lib/bulky/bulky.py:140
+msgid "Name"
+msgstr "Název"
+
+#: usr/lib/bulky/bulky.py:151
+msgid "New name"
+msgstr "Nový název"
+
+#: usr/lib/bulky/bulky.py:216
+msgid "Use %n, %0n, %00n, %000n to enumerate."
+msgstr "Použijte výrazy %n, %0n, %00n, %000n pro přepočítání."
+
+#: usr/lib/bulky/bulky.py:232
+msgid "Rename Files"
+msgstr "Přejmenování souborů"
+
+#: usr/lib/bulky/bulky.py:284
+msgid "Add files"
+msgstr "Přidání souborů"
+
+#: usr/lib/bulky/bulky.py:286
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: usr/lib/bulky/bulky.py:287
+msgid "Add"
+msgstr "Přidat"
+
+#: usr/lib/bulky/bulky.py:338 generate_desktop_files:25
+msgid "File Renamer"
+msgstr "Nástroj na přejmenování souborů"
+
+#: usr/lib/bulky/bulky.py:339 generate_desktop_files:25
+msgid "Rename files and directories"
+msgstr "Přejmenovává soubory a složky"
+
+#: usr/lib/bulky/bulky.py:407
+#, python-format
+msgid "Name collision on '%s'."
+msgstr "Konflikt názvu v cestě '%s'."
+
+#: usr/lib/bulky/bulky.py:411 usr/lib/bulky/bulky.py:415
+#, python-format
+msgid "'%s' is not writeable."
+msgstr "Cestu '%s' nelze zapsat."
+
+#: usr/share/bulky/bulky.ui.h:2
+msgid "Add files..."
+msgstr "Přidat soubory…"
+
+#: usr/share/bulky/bulky.ui.h:3
+msgid "Remove"
+msgstr "Odstranit"
+
+#: usr/share/bulky/bulky.ui.h:4
+msgid "Remove selected files"
+msgstr "Odstraní vybrané soubory"
+
+#: usr/share/bulky/bulky.ui.h:5
+msgid "Clear"
+msgstr "Vymazat"
+
+#: usr/share/bulky/bulky.ui.h:6
+msgid "Replace"
+msgstr "Nahradit"
+
+#: usr/share/bulky/bulky.ui.h:7
+msgid "Insert"
+msgstr "Vložit"
+
+#: usr/share/bulky/bulky.ui.h:8
+msgid "Change case"
+msgstr "Změnit velikost písmen"
+
+#: usr/share/bulky/bulky.ui.h:9
+msgid "Name only"
+msgstr "Pouze název"
+
+#: usr/share/bulky/bulky.ui.h:10
+msgid "Extension only"
+msgstr "Pouze příponu"
+
+#: usr/share/bulky/bulky.ui.h:11
+msgid "Name and extension"
+msgstr "Název a přípona"
+
+#: usr/share/bulky/bulky.ui.h:12
+msgid "Find:"
+msgstr "Najít:"
+
+#: usr/share/bulky/bulky.ui.h:13
+msgid "Replace:"
+msgstr "Nahradit:"
+
+#: usr/share/bulky/bulky.ui.h:14
+msgid "Regular expression"
+msgstr "Regulární výraz"
+
+#: usr/share/bulky/bulky.ui.h:15
+msgid "Case sensitive"
+msgstr "Rozlišovat velikost písmen"
+
+#: usr/share/bulky/bulky.ui.h:16
+msgid "At position:"
+msgstr "Na pozici:"
+
+#: usr/share/bulky/bulky.ui.h:17
+msgid "From the end"
+msgstr "Od konce"
+
+#: usr/share/bulky/bulky.ui.h:18
+msgid "Overwrite"
+msgstr "Přepsat"
+
+#: usr/share/bulky/bulky.ui.h:19
+msgid "Text:"
+msgstr "Text:"
+
+#: usr/share/bulky/bulky.ui.h:20
+msgid "Convert to:"
+msgstr "Převést na:"
+
+#: usr/share/bulky/bulky.ui.h:21
+msgid "Lower case"
+msgstr "Malá písmena"
+
+#: usr/share/bulky/bulky.ui.h:22
+msgid "First character uppercase"
+msgstr "První písmeno velké"
+
+#: usr/share/bulky/bulky.ui.h:23
+msgid "Title case"
+msgstr "První písmena velká"
+
+#: usr/share/bulky/bulky.ui.h:24
+msgid "Upper case"
+msgstr "Velká písmena"
+
+#: usr/share/bulky/bulky.ui.h:25
+msgid "Remove from position:"
+msgstr "Odstranit z pozice:"
+
+#: usr/share/bulky/bulky.ui.h:26
+msgid "To position:"
+msgstr "Na pozici:"
+
+#: usr/share/bulky/bulky.ui.h:27
+msgid "Close"
+msgstr "Zavřít"
+
+#: usr/share/bulky/bulky.ui.h:28
+msgid "Rename"
+msgstr "Přejmenovat"
